@@ -1,2 +1,2 @@
 # TCC--NO-WASTE
-TCC Tec. Anal e Desenvolvimento de Sistemas
+TCC - Tec. Analise e Desenvolvimento de Sistemas
